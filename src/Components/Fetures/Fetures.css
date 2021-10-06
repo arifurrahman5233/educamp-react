@@ -1,0 +1,11 @@
+.card-bodys{
+   background-color: black;
+   margin: 120px;
+
+}
+.card-picture img{
+    height: 100px;
+    width: 100px;
+    margin: 20px;
+   
+}

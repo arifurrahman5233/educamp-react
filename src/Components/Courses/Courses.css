@@ -1,0 +1,11 @@
+.course-demo h1{
+    margin-top: 80px;
+}
+.card-body{
+    background-color: rgb(243, 243, 243);
+    margin: 20px;
+}
+.card-group{
+    margin: 60px;
+    
+}
