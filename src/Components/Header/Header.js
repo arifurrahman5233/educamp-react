@@ -1,7 +1,7 @@
 import React from 'react';
 import './Header.css'
 import { Container, Nav, Navbar } from 'react-bootstrap';
-import images from '../../images/star.png'
+import images from '../../images/red.png';
 import { Link, NavLink } from 'react-router-dom';
 
 
