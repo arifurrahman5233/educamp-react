@@ -2,6 +2,7 @@ import React from 'react';
 import { Card, CardGroup } from 'react-bootstrap';
 import './Courses.css'
 
+
 const Courses = () => {
     return (
         <div>

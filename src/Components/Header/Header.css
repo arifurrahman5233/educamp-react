@@ -5,3 +5,11 @@
 .header-nav{
   line-height: 60px;
 }
+.nav a{
+  text-decoration: none;
+  color: lightgray;
+  padding: 10px;
+} 
+.nav  :hover{
+  color: brown;
+}
