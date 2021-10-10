@@ -18,20 +18,23 @@ function App() {
       <BrowserRouter>
       <Header></Header>
       <Switch>
+      <Route exact path ="/">
+          <Allitem></Allitem>
+        </Route>
         <Route path ="/home">
           <Allitem></Allitem>
         </Route>
-        <Route exact path ="/courses">
+        <Route  path ="/courses">
             <Courses></Courses>
         </Route>
 
-        <Route exact path ="/features">
+        <Route  path ="/features">
             <Fetures></Fetures>
           </Route>
-          <Route exact path ='/contact'>
+          <Route  path ='/contact'>
             <Contact></Contact>
           </Route>
-        <Route exact path ="/Allitem">
+        <Route  path ="/Allitem">
             <Allitem></Allitem>
         </Route>
       </Switch>
